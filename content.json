@@ -1,0 +1,593 @@
+{
+ "site": {
+  "url": "https://YOUR-USERNAME.github.io/YOUR-REPO/",
+  "title_en": "Xability's | VR & AI Accessibility Solutions by EKSON",
+  "title_ar": "Xability's | حلول الواقع الافتراضي والذكاء الاصطناعي لذوي الهمم من إكسون",
+  "description_en": "Xability's, powered by EKSON Technology, builds immersive VR simulators and an AI Sign Avatar that remove physical barriers for 15 million+ people.",
+  "description_ar": "تبتكر Xability's بدعم من إكسون للتكنولوجيا محاكيات واقع افتراضي وأفاتار إشارة بالذكاء الاصطناعي لإزالة الحواجز أمام أكثر من 15 مليون شخص في الشرق الأوسط.",
+  "keywords": "Xability's, EKSON Technology, VR accessibility, wheelchair simulator, 3DOF, 2DOF, AI sign language avatar, Egypt",
+  "org_name": "Xability's",
+  "org_parent": "EKSON Technology",
+  "phone": "+201015614440",
+  "email": "info@eksontech.com",
+  "address_locality": "Cairo",
+  "address_country": "EG",
+  "address_street": "Mokattam",
+  "google_verification": "",
+  "last_modified": "2026-10-13"
+ },
+ "texts": [
+  {
+   "id": "t001",
+   "en": "POWERED BY",
+   "ar": "بدعم من",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t002",
+   "en": "EKSON",
+   "ar": "EKSON",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t003",
+   "en": "POWERED BY",
+   "ar": "بدعم من",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t004",
+   "en": "EKSON",
+   "ar": "EKSON",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t005",
+   "en": "Menu",
+   "ar": "القائمة",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t006",
+   "en": "Close",
+   "ar": "إغلاق",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t007",
+   "en": "Everyone",
+   "ar": "للجميع",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t008",
+   "en": "Everyone",
+   "ar": "للجميع",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t009",
+   "en": "Technology built",
+   "ar": "تقنية صُنعت",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t010",
+   "en": "for everyone.",
+   "ar": "للجميع.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t011",
+   "en": "Xability's creates immersive VR and AI solutions that open every experience to everyone. Powered by EKSON Technology.",
+   "ar": "تبتكر Xability's حلول واقع افتراضي وذكاء اصطناعي غامرة تفتح كل تجربة للجميع، بدعم من إكسون للتكنولوجيا.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t012",
+   "en": "15M",
+   "ar": "15M",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t013",
+   "en": "Immersive VR that removes physical barriers for over 15 million people in the Middle East.",
+   "ar": "واقع افتراضي غامر يزيل الحواجز الجسدية لأكثر من 15 مليون شخص في الشرق الأوسط.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t014",
+   "en": "Explore our solutions",
+   "ar": "اكتشف حلولنا",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t015",
+   "en": "Adaptive driving",
+   "ar": "القيادة التكيّفية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t016",
+   "en": "VR simulation games",
+   "ar": "ألعاب محاكاة الواقع الافتراضي",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t017",
+   "en": "Virtual tours",
+   "ar": "الجولات الافتراضية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t018",
+   "en": "Vision",
+   "ar": "الرؤية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t019",
+   "en": "Vision",
+   "ar": "الرؤية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t020",
+   "en": "Vision and impact",
+   "ar": "الرؤية والأثر",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t021",
+   "en": "Xability's is powered by EKSON Technology, the technology arm of Almotahida Group, delivering innovative digital learning, simulation, and enterprise technology solutions across the Middle East and the United States. Powered by a large, multidisciplinary team, we turn complex concepts into memorable, actionable experiences.",
+   "ar": "تعمل Xability's بدعم من إكسون للتكنولوجيا، الذراع التقني لمجموعة المتحدة، وتقدّم حلولًا مبتكرة للتعلّم الرقمي والمحاكاة وتكنولوجيا المؤسسات في الشرق الأوسط والولايات المتحدة. وبفضل فريق كبير متعدد التخصصات، نحوّل المفاهيم المعقّدة إلى تجارب لا تُنسى وقابلة للتطبيق.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t022",
+   "en": "25+",
+   "ar": "25+",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t023",
+   "en": "Clients",
+   "ar": "عميل",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t024",
+   "en": "250+",
+   "ar": "250+",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t025",
+   "en": "Trainings",
+   "ar": "برنامج تدريبي",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t026",
+   "en": "100k+",
+   "ar": "100k+",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t027",
+   "en": "Hours",
+   "ar": "ساعة",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t028",
+   "en": "Access",
+   "ar": "الإتاحة",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t029",
+   "en": "Access",
+   "ar": "الإتاحة",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t030",
+   "en": "Accessibility solutions",
+   "ar": "حلول إتاحة الوصول",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t031",
+   "en": "15M",
+   "ar": "15M",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t032",
+   "en": "Physical barriers shouldn't limit human experience. We remove these barriers for over 15 million people in the Middle East through immersive VR.",
+   "ar": "لا ينبغي للحواجز الجسدية أن تحدّ من تجربة الإنسان. نزيل هذه الحواجز لأكثر من 15 مليون شخص في الشرق الأوسط عبر الواقع الافتراضي الغامر.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t033",
+   "en": "Adaptive driving",
+   "ar": "القيادة التكيّفية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t034",
+   "en": "Hand-control telemetry allows wheelchair users to experience realistic racing safely, with no foot pedals required.",
+   "ar": "تتيح قياسات التحكم اليدوي لمستخدمي الكراسي المتحركة خوض سباقات واقعية بأمان، دون الحاجة إلى دواسات القدم.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t035",
+   "en": "VR simulation games",
+   "ar": "ألعاب محاكاة الواقع الافتراضي",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t036",
+   "en": "Upper-body VR motion games deliver fun, unlimited experiences for everyone.",
+   "ar": "توفّر ألعاب الحركة للجزء العلوي من الجسم تجارب ممتعة بلا حدود للجميع.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t037",
+   "en": "Virtual tours",
+   "ar": "الجولات الافتراضية",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t038",
+   "en": "1:1 scale tours of global heritage sites, including the Pyramids, free of stairs or terrain barriers.",
+   "ar": "جولات بمقياس 1:1 في مواقع التراث العالمي، ومنها الأهرامات، دون سلالم أو عوائق في التضاريس.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t039",
+   "en": "3DOF",
+   "ar": "3DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t040",
+   "en": "3DOF",
+   "ar": "3DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t041",
+   "en": "3DOF",
+   "ar": "3DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t042",
+   "en": "3DOF simulator: ultimate immersion",
+   "ar": "محاكي 3DOF: أقصى درجات الانغماس",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t043",
+   "en": "Combines VR technology with three degrees of freedom motion, creating an engaging and realistic experience.",
+   "ar": "يجمع بين تقنية الواقع الافتراضي وحركة بثلاث درجات حرية، لتجربة ممتعة وواقعية.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t044",
+   "en": "Wheelchair-accessible platform with a ramp.",
+   "ar": "منصة مهيأة للكراسي المتحركة مزوّدة بمنحدر.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t045",
+   "en": "Secure restraint system (chest/lap harness) for limited trunk control.",
+   "ar": "نظام تثبيت آمن (حزام للصدر والحضن) لمن يتحكمون بجذعهم بشكل محدود.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t046",
+   "en": "Hand-only control system (throttle, brake, steering).",
+   "ar": "نظام تحكم باليدين فقط (تسارع وفرامل وتوجيه).",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t047",
+   "en": "Adjustable motion intensity settings to control comfort.",
+   "ar": "إعدادات قابلة للضبط لشدة الحركة للتحكم في مستوى الراحة.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t048",
+   "en": "2DOF",
+   "ar": "2DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t049",
+   "en": "2DOF",
+   "ar": "2DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t050",
+   "en": "2DOF simulator: compact and accessible",
+   "ar": "محاكي 2DOF: مدمج وسهل الوصول",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t051",
+   "en": "An immersive motion experience connecting users to environments via two degrees of freedom motion.",
+   "ar": "تجربة حركة غامرة تربط المستخدمين بالبيئات عبر حركة بدرجتي حرية.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t052",
+   "en": "Highly responsive pitch and roll mechanics without vertical heave.",
+   "ar": "ميكانيكا ميلان أمامي وجانبي سريعة الاستجابة دون حركة رأسية.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t053",
+   "en": "Wheelchair-accessible with a secure stabilization system.",
+   "ar": "مهيأ للكراسي المتحركة مع نظام تثبيت آمن.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t054",
+   "en": "Hand-only controls and motion calibrated to avoid motion sickness.",
+   "ar": "تحكم باليدين فقط وحركة مضبوطة لتجنّب دوار الحركة.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t055",
+   "en": "2DOF",
+   "ar": "2DOF",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t056",
+   "en": "Voice",
+   "ar": "الصوت",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t057",
+   "en": "Camera on: reading signs",
+   "ar": "الكاميرا تعمل: قراءة الإشارات",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t058",
+   "en": "Voice",
+   "ar": "الصوت",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t059",
+   "en": "AI Sign Avatar",
+   "ar": "أفاتار لغة الإشارة بالذكاء الاصطناعي",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t060",
+   "en": "Built entirely in-house by EKSON, our AI Sign Avatar breaks communication barriers for the Deaf and hard-of-hearing community through real-time, interactive sign language translation.",
+   "ar": "بُني بالكامل داخل إكسون، ويكسر أفاتار الإشارة بالذكاء الاصطناعي حواجز التواصل أمام مجتمع الصم وضعاف السمع عبر ترجمة تفاعلية فورية للغة الإشارة.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t061",
+   "en": "Using an integrated camera, the system translates gestures into spoken or written language in real time, bridging the gap between spoken and signed language.",
+   "ar": "باستخدام كاميرا مدمجة، يترجم النظام الإيماءات إلى لغة منطوقة أو مكتوبة في الوقت الفعلي، ليسدّ الفجوة بين اللغة المنطوقة ولغة الإشارة.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t062",
+   "en": "Connect",
+   "ar": "تواصل",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t063",
+   "en": "Connect",
+   "ar": "تواصل",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t064",
+   "en": "Let's build a smarter, safer tomorrow.",
+   "ar": "لنبنِ معًا غدًا أذكى وأكثر أمانًا.",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t065",
+   "en": "Powered by",
+   "ar": "بدعم من",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t066",
+   "en": "EKSON Technology",
+   "ar": "إكسون للتكنولوجيا",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t067",
+   "en": "Our partners and events",
+   "ar": "شركاؤنا وفعالياتنا",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t068",
+   "en": "AccessAbilities",
+   "ar": "AccessAbilities",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t069",
+   "en": "Egypt Media Forum",
+   "ar": "منتدى مصر للإعلام",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t070",
+   "en": "Cairo University",
+   "ar": "جامعة القاهرة",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t071",
+   "en": "Phone:",
+   "ar": "الهاتف:",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t072",
+   "en": "+20 101 561 4440",
+   "ar": "+20 101 561 4440",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t073",
+   "en": "Email:",
+   "ar": "البريد الإلكتروني:",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t074",
+   "en": "info@eksontech.com",
+   "ar": "info@eksontech.com",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t075",
+   "en": "Head office:",
+   "ar": "المقر الرئيسي:",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t076",
+   "en": "Mokattam, Cairo, Egypt",
+   "ar": "المقطم، القاهرة، مصر",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t077",
+   "en": "Prev.",
+   "ar": "السابق",
+   "sec": "Header / footer"
+  },
+  {
+   "id": "t078",
+   "en": "Next",
+   "ar": "التالي",
+   "sec": "Header / footer"
+  }
+ ],
+ "ui": [
+  {
+   "id": "ui01",
+   "en": "About",
+   "ar": "من نحن",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui02",
+   "en": "Solutions",
+   "ar": "الحلول",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui03",
+   "en": "Simulators",
+   "ar": "المحاكيات",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui04",
+   "en": "Sign avatar",
+   "ar": "أفاتار الإشارة",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui05",
+   "en": "Contact",
+   "ar": "تواصل معنا",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui06",
+   "en": "EKSON Technology develops immersive VR solutions that transform the way people learn, practice, and perform.",
+   "ar": "تطوّر إكسون للتكنولوجيا حلول الواقع الافتراضي الغامرة التي تغيّر طريقة تعلّم الناس وتدرّبهم وأدائهم.",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui07",
+   "en": "EKSON Technology is the technology arm of Almotahida Group, delivering innovative digital learning, simulation, and enterprise technology solutions across the Middle East and the United States. Powered by a large, multidisciplinary team, we turn complex concepts into memorable, actionable experiences.",
+   "ar": "إكسون للتكنولوجيا هي الذراع التقني لمجموعة المتحدة، وتقدّم حلولًا مبتكرة للتعلّم الرقمي والمحاكاة وتكنولوجيا المؤسسات في الشرق الأوسط والولايات المتحدة. وبفضل فريق كبير متعدد التخصصات، نحوّل المفاهيم المعقّدة إلى تجارب لا تُنسى وقابلة للتطبيق.",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui08",
+   "en": "Motion you can feel, built for wheelchairs.",
+   "ar": "حركة تشعر بها، مصمّمة للكراسي المتحركة.",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui09",
+   "en": "Motion intensity",
+   "ar": "شدة الحركة",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui10",
+   "en": "Pitch",
+   "ar": "الميلان الأمامي",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui11",
+   "en": "Roll",
+   "ar": "الميلان الجانبي",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui12",
+   "en": "Heave",
+   "ar": "الحركة الرأسية",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui13",
+   "en": "Hello, how can I help you today?",
+   "ar": "مرحبًا، كيف يمكنني مساعدتك اليوم؟",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui14",
+   "en": "Where is the ticket office?",
+   "ar": "أين شباك التذاكر؟",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui15",
+   "en": "Thank you. Have a good day.",
+   "ar": "شكرًا لك. أتمنى لك يومًا سعيدًا.",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui16",
+   "en": "Motion",
+   "ar": "الحركة",
+   "sec": "Menu & simulator UI (JS-generated)"
+  },
+  {
+   "id": "ui17",
+   "en": "Physical barriers shouldn't limit human experience.",
+   "ar": "لا ينبغي للحواجز الجسدية أن تحدّ من تجربة الإنسان.",
+   "sec": "Menu & simulator UI (JS-generated)"
+  }
+ ]
+}
